@@ -1,0 +1,20 @@
+{
+  "name": "ארמון יוסף מאיר · Gestión",
+  "short_name": "Yosef Meir",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a171d",
+  "theme_color": "#1a171d",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
